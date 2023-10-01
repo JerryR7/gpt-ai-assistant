@@ -1,5 +1,11 @@
 # Changelog
 
+## 4.7.6 (2023-10-01)
+
+### Bug Fixes
+
+- Specify Vercel CLI version
+
 ## 4.7.5 (2023-10-01)
 
 ### Bug Fixes
